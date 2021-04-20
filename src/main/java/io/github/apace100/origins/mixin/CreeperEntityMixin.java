@@ -2,8 +2,8 @@ package io.github.apace100.origins.mixin;
 
 import io.github.apace100.origins.power.PowerTypes;
 import net.minecraft.entity.EntityType;
-import net.minecraft.entity.ai.goal.FleeEntityGoal;
-import net.minecraft.entity.ai.goal.FollowTargetGoal;
+import net.minecraft.entity.ai.goal.FleeEntityGoal;20
+import net.minecraft.entity.ai.goal.FollowTargetGoal;0
 import net.minecraft.entity.ai.goal.Goal;
 import net.minecraft.entity.ai.goal.GoalSelector;
 import net.minecraft.entity.mob.CreeperEntity;
